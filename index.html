@@ -27,7 +27,7 @@
 
       /* STEP 3: Store the URL of a JSON file in a variable */
       const requestURL =
-        "https://blekmus.github.io/JS-JSON/data/i-scream.json";
+        "https://blekmus.github.io/JS-DATA/data/i-scream.json";
 
       /* STEP 4: Create a new XHR object */
       const request = new XMLHttpRequest();
@@ -80,7 +80,7 @@
           // STEP 10e: Set the textContent property for each of the above elements (except the UL), based on the JSON content
           img.setAttribute(
             "src",
-            "https://blekmus.github.io/JS-JSON/images/" +
+            "https://blekmus.github.io/JS-DATA/images/" +
               topFlavors[i].image
           );
           img.setAttribute("alt", topFlavors[i].name);

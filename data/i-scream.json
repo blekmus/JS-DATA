@@ -45,7 +45,7 @@
         "chocolate ice cream",
         "chocolate chips"
       ],
-      "image": "choco-chip.svg"
+      "image": "ice-cream-xtra2.svg"
     },
     {
       "name": "Citrus Sour",
@@ -57,7 +57,7 @@
         "orange extract",
         "smarties"
       ],
-      "image": "citrus-sour.svg"
+      "image": "ice-cream-xtra1.svg"
     }
   ]
 }
